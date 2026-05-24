@@ -1,2 +1,2 @@
 def solve_equation():
-    return "Linear"
+    return "Quadratic"

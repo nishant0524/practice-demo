@@ -1,2 +1,2 @@
 def solve_equation():
-    return "Polynomial"
+    return "Quadratic"
